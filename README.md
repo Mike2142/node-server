@@ -2,6 +2,8 @@
 
 #### Проект NodeServer
 Сервер на Node.js
+- получает и обрабатывает список версий Node.js
+- собирает HTML страницы
 
 #### Стэк
 Node.js, Express.js, шаблоны Handlebars
